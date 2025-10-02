@@ -21,10 +21,10 @@ SLUT is an open protocol specification designed to unify how applications intera
 
 ## Projects
 
-### [proxy/](./proxy/) - Reference Server
+### [proxy/](https://github.com/slut-wg/proxy) - Reference Server
 A Python-based reference implementation of the SLUT protocol (as well as an OpenAI-compatible layer) that acts as a proxy between clients and various LLM providers.
 
-### [spec/](./spec/) - Protocol Specification
+### [spec/](https://github.com/slut-wg/spec) - Protocol Specification
 The official TypeSpec specification for the SLUT protocol. This defines the core API structure, request/response formats, and extension points for providers. It also includes an (attempted) formalization of the OpenAI protocol.
 
 ## Getting Started
